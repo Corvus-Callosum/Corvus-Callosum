@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sean
-<!--- - 👀 I’m interested in ... --->
 - 🌱 I’m currently studying elecrical engineering
 - 💞️ I’m looking to collaborate on any hardware related projects
+<!--- - 👀 I’m interested in ... --->
 <!--- - 📫 How to reach me ... --->
 
 <!---
