@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sean
-- 🌱 I’m currently studying elecrical engineering
+- 🌱 Graduate from the University of Tennessee with a Bachelor's of Science in Electrical Engineering
 - 💞️ I’m looking to collaborate on any hardware related projects
 <!--- - 👀 I’m interested in ... --->
 <!--- - 📫 How to reach me ... --->
