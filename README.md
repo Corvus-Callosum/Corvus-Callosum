@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sean
-- 🌱 Graduate Student at the University of Tennessee working on a Master of Science in Electrical Engineering
-- 💞️ I’m looking to collaborate on any hardware related projects
+- 👋 Hi, I’m Corvus
+<!--- - 🌱 Graduate Student at the University of Tennessee working on a Master of Science in Electrical Engineering --->
+<!--- - 💞️ I’m looking to collaborate on any hardware related projects --->
 <!--- - 👀 I’m interested in ... --->
 <!--- - 📫 How to reach me ... --->
 
